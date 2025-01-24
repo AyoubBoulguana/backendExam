@@ -10,6 +10,7 @@ This project depends on some environment variables. If you are running this proj
 Here are the required ones:
 
 DATABASE_URL=postgres://postgres:postgres@51.91.220.187:6543/boulguana
+
 Generate your Prisma client
 Run the following command to generate the Prisma Client which will include types based on your database schema:
 
